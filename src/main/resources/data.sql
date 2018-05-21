@@ -48,8 +48,12 @@ insert into user(id,username) values(47, 'Jose4');
 insert into user(id,username) values(48, 'joseJose');
 insert into user(id,username) values(49, 'johnJohn');
 insert into user(id,username) values(50, 'pipe2018');
-insert into restrictedword(id,word) values(1, 'perico');
-insert into restrictedword(id,word) values(2, 'basuco');
-insert into restrictedword(id,word) values(3, 'putas');
+insert into restrictedword(id,word) values(1, 'cannabis');
+insert into restrictedword(id,word) values(2, 'abuse');
+insert into restrictedword(id,word) values(3, 'crack');
+insert into restrictedword(id,word) values(4, 'damn');
+insert into restrictedword(id,word) values(5, 'drunk');
+insert into restrictedword(id,word) values(6, 'grass');
+
 
 
